@@ -1,5 +1,6 @@
 def reverse_each_word(element)
   reverse = element.split("")
-  reverse.collect do 
+  reverse.collect do |word|
+    
     
 end
