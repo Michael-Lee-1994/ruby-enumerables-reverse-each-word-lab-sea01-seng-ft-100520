@@ -1,3 +1,3 @@
 def reverse_each_word(element)
-  reverse = element.split
+  reverse = element.split("") do
 end
